@@ -1,11 +1,13 @@
 # MediaPipe Face Detection
 
 ## 1. Clone the repository
+
 ```bash
 git clone https://github.com/nikoparas1/mp-face-detection
 ```
 
 ## 2. Change into mp-face-detection directory
+
 ```bash
 cd mp-face-detection
 ```
